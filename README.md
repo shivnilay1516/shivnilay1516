@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=40F99B&vCenter=true&width=435&lines=Full-stack+Developer;MERN+Stack+%F0%9F%A4%97;Java+%7C+Spring+Boot+%F0%9F%92%BB;Open+Source+Contributor;%F0%9F%92%BB+Crafting+Cool+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=40F99B&vCenter=true&width=435&lines=Full-stack+Developer;MERN+Stack+%F0%9F%A4%97;Fronten+Developer+%7C+UI+Developer+%F0%9F%92%BB;Open+Source+Contributor;%F0%9F%92%BB+Crafting+Cool+Projects" />
 </p>
 
 ---
