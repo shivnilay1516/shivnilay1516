@@ -17,7 +17,7 @@
 
 - 🎯 Mission: **Build things that help people and scale beautifully.**
 
-- 📫 Reach me at: [shivnilay@email.com](mailto:shivnilay@email.com)
+- 📫 Reach me at: [shivnilay.srivastav@ens.enterprises](mailto:shivnilay.srivastav@ens.enterprises)
 
 ---
 
